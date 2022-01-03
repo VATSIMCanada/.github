@@ -1,6 +1,6 @@
 [![VATSIM Canada](https://i.imgur.com/l6ZwnfT.png)](https://vatcan.ca)
 # About
-This is the Github Organization for [VATCAN](https://vatcan.ca), responsible for creating and managing VATCAN infrastructure and projects.
+This is the Github Organization for [VATSIM Canada](https://vatcan.ca), responsible for creating and managing VATCAN infrastructure and projects.
 
 ## Quick Links
 - [Bookings](https://bookings.vatcan.ca)
